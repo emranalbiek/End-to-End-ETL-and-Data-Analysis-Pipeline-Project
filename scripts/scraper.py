@@ -70,4 +70,6 @@ data = pd.DataFrame({
 
 # Save the DataFrame to a CSV file
 data.to_csv('scraped_data/used_cars.csv', index=False)
+# Save to MySQL uploads folder
+data.to_csv('C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/used_cars.csv', index=False)
 print("Data saved to used_cars.csv")
