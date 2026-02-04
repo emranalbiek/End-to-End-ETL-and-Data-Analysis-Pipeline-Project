@@ -2,7 +2,7 @@
 
 An automated end-to-end data pipeline that extracts real-time used car listings, processes them through a SQL database, and delivers actionable market insights via Tableau.
 
-![Project Flow]('project_flow.jpg')
+![Project Flow]('project_flow.png')
 
 📌 Project Overview
 * This project demonstrates a full ETL (Extract, Transform, Load) cycle:
